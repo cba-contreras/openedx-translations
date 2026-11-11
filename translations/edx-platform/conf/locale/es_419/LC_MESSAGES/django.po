@@ -10510,7 +10510,7 @@ msgstr "Restablecimiento de contraseña en %(platform_name)s"
 
 #: openedx/core/djangoapps/user_authn/templates/user_authn/edx_ace/passwordresetsuccess/email/body.html:10
 msgid "Password reset success"
-msgstr "reestablecimiento exitoso de la contraseña "
+msgstr "Reestablecimiento exitoso de la contraseña "
 
 #: openedx/core/djangoapps/user_authn/templates/user_authn/edx_ace/passwordresetsuccess/email/body.html:14
 #, python-format
