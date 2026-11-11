@@ -10525,7 +10525,7 @@ msgid ""
 "associated with %(platform_name)s account. Please sign-in to your account."
 msgstr ""
 "Este mensaje es para confirmar que has cambiado tu contraseña asociada con  "
-"%(platform_name)s cuenta de manera exitosa. Por favor ingresa a tu cuenta."
+"%(platform_name)s de manera exitosa. Por favor ingresa a tu cuenta."
 
 #: openedx/core/djangoapps/user_authn/templates/user_authn/edx_ace/passwordresetsuccess/email/body.txt:2
 #, python-format
