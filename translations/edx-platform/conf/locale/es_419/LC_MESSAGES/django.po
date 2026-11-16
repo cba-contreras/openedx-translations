@@ -3679,9 +3679,7 @@ msgstr "Certificado {partner_short_name} {course_number} | {platform_name}"
 msgid ""
 "successfully completed, received a passing grade, and was awarded this "
 "{platform_name} {certificate_type} Certificate of Completion in "
-msgstr ""
-"completó exitosamente, obteniendo calificación aprobatoria y el certificado "
-"de aprobación tipo {certificate_type} otorgado en {platform_name} para "
+msgstr "completó exitosamente y obtuvo calificación aprobatoria en "
 
 #. Translators: This text describes the purpose (and therefore, value) of a
 #. course certificate
