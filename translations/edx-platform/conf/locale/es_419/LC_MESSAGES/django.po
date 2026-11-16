@@ -3681,7 +3681,7 @@ msgid ""
 "{platform_name} {certificate_type} Certificate of Completion in "
 msgstr ""
 "completó exitosamente, obteniendo calificación aprobatoria y el certificado "
-"de terminación tipo {certificate_type} otorgado en {platform_name} para "
+"de aprobación tipo {certificate_type} otorgado en {platform_name} para "
 
 #. Translators: This text describes the purpose (and therefore, value) of a
 #. course certificate
