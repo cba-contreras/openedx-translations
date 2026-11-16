@@ -3813,8 +3813,7 @@ msgid ""
 "a course of study offered by {partner_short_name}, an online learning "
 "initiative of {partner_long_name}."
 msgstr ""
-"curso ofrecido por {partner_short_name}, una iniciativa de aprendizaje en "
-"línea de {partner_long_name}."
+"curso ofrecido por {partner_long_name}."
 
 #. Translators:  This text represents the description of course
 #: lms/djangoapps/certificates/views/webview.py:264
