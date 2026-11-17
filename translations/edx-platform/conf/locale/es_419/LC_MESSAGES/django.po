@@ -3675,7 +3675,6 @@ msgstr "Certificado {partner_short_name} {course_number} | {platform_name}"
 #. screen.  The text describes the accomplishment represented by the
 #. certificate information displayed to the user
 #: lms/djangoapps/certificates/views/webview.py:144
-#, python-brace-format
 msgid ""
 "successfully completed, received a passing grade, and was awarded this "
 "{platform_name} {certificate_type} Certificate of Completion in "
@@ -3808,7 +3807,6 @@ msgstr "{platform_name} reconoce el siguiente logro al estudiante"
 
 #. Translators:  This text represents the description of course
 #: lms/djangoapps/certificates/views/webview.py:256
-#, python-brace-format
 msgid ""
 "a course of study offered by {partner_short_name}, an online learning "
 "initiative of {partner_long_name}."
