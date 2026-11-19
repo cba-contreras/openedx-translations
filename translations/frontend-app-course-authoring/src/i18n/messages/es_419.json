@@ -1341,7 +1341,7 @@
   "course-authoring.import.stepper.title.uploading": "Subiendo",
   "course-authoring.import.stepper.title.unpacking": "Desempaquetando",
   "course-authoring.import.stepper.title.verifying": "Verificando",
-  "course-authoring.import.stepper.title.updating": "Curso de actualización",
+  "course-authoring.import.stepper.title.updating": "Actualizando curso",
   "course-authoring.import.stepper.title.success": "Éxito",
   "course-authoring.import.stepper.description.uploading": "Transfiriendo su archivo a nuestros servidores",
   "course-authoring.import.stepper.description.unpacking": "Expandiendo y preparando la estructura de carpetas y archivos. (ya puede abandonar esta página de forma segura, pero evite hacer cambios drásticos hasta que la importación haya sido terminada)",
