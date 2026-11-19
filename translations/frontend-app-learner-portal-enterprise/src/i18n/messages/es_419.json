@@ -346,7 +346,7 @@
   "enterprise.course.about.page.course.not.in.catalog": "Este curso no forma parte del catálogo de cursos seleccionados de su organización.",
   "enterprise.course.about.page.important-dates.title": "Fechas importantes",
   "enterprise.course.about.page.important-dates.enroll-by-date": "Fecha límite de inscripción",
-  "enterprise.course.about.page.important-dates.course-starts": "Inicio del Curso",
+  "enterprise.course.about.page.important-dates.course-starts": "Inicio del curso",
   "enterprise.course.about.page.important-dates.course-started": "Curso iniciado",
   "enterprise.course.about.page.video.play.button.text": "Reproduce el video",
   "useCourseRunCardAction.enroll.success.helperText": "Te inscribiste exitosamente. Redirigiendo al curso.",
