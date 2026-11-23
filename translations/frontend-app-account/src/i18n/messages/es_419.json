@@ -45,7 +45,7 @@
   "account.settings.field.email": "Correo electrónico (Ingresar)",
   "account.settings.field.email.empty": "Agregar correo electrónico",
   "account.settings.field.email.confirmation": "Le enviamos un mensaje de confirmación a  {value}. Hacer click en la liga del mensaje para actualizar su correo electrónico.",
-  "account.settings.field.email.help.text": "Tienes un mensaje de {siteName} y el equipo de curso en esta dirección. ",
+  "account.settings.field.email.help.text": "Recibes mensajes de {siteName} y del equipo de curso en esta dirección.",
   "account.settings.field.secondary.email": "Correo electrónico de recuperación",
   "account.settings.field.secondary.email.empty": "Agregar un correo electrónico de recuperación",
   "account.settings.field.secondary.email.confirmation": "Le enviamos un mensaje de confirmación a  {value}. Hacer click en la liga del mensaje para actualizar su correo electrónico.",
