@@ -669,6 +669,8 @@
   "course-authoring.course-outline.sidebar.sidebar-button-add": "Agregar",
   "course-authoring.course-outline.sidebar.sidebar-button-info": "Información",
   "course-authoring.course-outline.sidebar.sidebar-button-align": "Alinear",
+  "course-authoring.course-outline.sidebar.generic.info.tab.text": "Detalles",
+  "course-authoring.course-outline.sidebar.generic.info.settings.text": "Configuración",
   "course-authoring.course-outline.sidebar.sidebar-section-summary": "Resumen del Contenido del curso",
   "course-authoring.course-outline.sidebar.sidebar-section-taxonomy": "Alineaciones de Taxonomía",
   "course-authoring.course-outline.sidebar.sidebar-section-taxonomy.manage-tags-action": "Administrar etiquetas",
