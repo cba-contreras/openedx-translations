@@ -1232,7 +1232,7 @@
   "course-authoring.grading-settings.assignment.total-number.title": "Número total",
   "course-authoring.grading-settings.assignment.total-number.description": "El número de subdivisiones del curso que contiene problemas de este tipo de asignación.",
   "course-authoring.grading-settings.assignment.total-number.error.message": "Por favor ingrese un número entero mayor que cero.",
-  "course-authoring.grading-settings.assignment.number-of-droppable.title": "Número de desplegables",
+  "course-authoring.grading-settings.assignment.number-of-droppable.title": "Número de descartables",
   "course-authoring.grading-settings.assignment.number-of-droppable.description": "El número de asignaciones de este tipo que serán descartados. Las asignaciones con calificaciones más bajas serán las primeras en ser descartadas.",
   "course-authoring.grading-settings.assignment.number-of-droppable.error.message": "Por favor, escriba un número entero no negativo.",
   "course-authoring.grading-settings.assignment.number-of-droppable.second.error.message": "No se pueden descartar más asignaciones {type} de las asignadas.",
