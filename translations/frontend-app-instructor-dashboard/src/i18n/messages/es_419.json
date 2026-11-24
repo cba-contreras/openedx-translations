@@ -319,7 +319,7 @@
   "instruct.enrollments.revoke": "Revocar",
   "instruct.enrollments.revokeBetaTester": "Eliminar rol de probador beta",
   "instruct.enrollments.searchPlaceholder": "Buscar inscripciones",
-  "instruct.enrollments.track": "Hacer seguimiento",
+  "instruct.enrollments.track": "Modo",
   "instruct.enrollments.trueLabel": "Verdadero",
   "instruct.enrollments.unenrollButton": "Cancelar la inscripción",
   "instruct.enrollments.unknownLearner": "Estudiante desconocido: {learner}",
