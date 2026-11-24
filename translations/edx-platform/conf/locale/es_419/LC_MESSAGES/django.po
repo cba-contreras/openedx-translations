@@ -14269,7 +14269,7 @@ msgstr ""
 
 #: xmodule/modulestore/inheritance.py:161
 msgid "Group Configurations"
-msgstr "Configuraciones de Grupo"
+msgstr "Configuraciones de grupos"
 
 #: xmodule/modulestore/inheritance.py:162
 msgid ""
