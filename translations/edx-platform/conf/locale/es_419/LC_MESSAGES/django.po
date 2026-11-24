@@ -7306,7 +7306,7 @@ msgstr "Tus otros cursos no se han visto afectados."
 #, python-format
 msgid "This email was automatically sent from %(site_name)s to %(full_name)s"
 msgstr ""
-"Este correo electrónico se envio automáticamente desde %(site_name)s a "
+"Este correo electrónico se envió automáticamente desde %(site_name)s a "
 "%(full_name)s"
 
 #: lms/templates/instructor/edx_ace/enrolledunenroll/push/body.txt:4
