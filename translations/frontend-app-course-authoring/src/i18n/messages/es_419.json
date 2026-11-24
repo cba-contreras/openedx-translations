@@ -254,7 +254,7 @@
   "course-authoring.grading-settings.grading-rules-policies.description": "Fechas límite de entrega, requerimientos y logística relacionada con la calificación del trabajo de los estudiantes",
   "course-authoring.grading-settings.assignment-type.title": "Tipos de evaluaciones",
   "course-authoring.grading-settings.assignment-type.description": "Categorías y etiquetas para cualquier ejercicio que sea calificable",
-  "course-authoring.grading-settings.add-new-assignment-type.btn": "Nuevo tipo de asignación",
+  "course-authoring.grading-settings.add-new-assignment-type.btn": "Nuevo tipo de evaluación",
   "course-authoring.group-configurations.heading-title": "Configuraciones de grupo",
   "course-authoring.group-configurations.heading-sub-title": "Configuración",
   "course-authoring.group-configurations.container.contains-groups": "Contiene {len, plural, one {1 grupo} other { {len} groups}}",
