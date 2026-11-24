@@ -3701,7 +3701,7 @@ msgstr ""
 #: openedx/core/djangoapps/schedules/templates/schedules/edx_ace/courseupdate/email/footer.html:176
 #: themes/red-theme/lms/templates/ace_common/edx_ace/common/base_body.html:174
 msgid "All rights reserved"
-msgstr "Todos los derechos reservados."
+msgstr "Todos los derechos reservados"
 
 #. Translators:  This text is bound to the HTML 'title' element of the page
 #. and appears
